@@ -1,0 +1,10 @@
+Mittesanktsioneeritud juurdepääsu eest kaitsevahendid,75
+Võrgudemonitooringu süsteemid,63
+Viirusetõrje abinõud,58
+Koormuste reserveerimine,45
+Autentifikatsioonisüsteemid, 41
+Salasõna,37
+Juurdepääsu võti,35
+Monitoringline programne produkt,31
+Instrumentaalsed kaitsesüsteemide analüüsimisabinõud,28
+Krüpteerimine, 24
